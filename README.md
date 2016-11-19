@@ -14,7 +14,7 @@ Term: Fall 2016
 
 	- Objective: To predict (recommend) lyrics words using music features from a set of 2350 songs
 	- Method: Item-to-Item collaborate filtering 
-	- Reference: ‘Recommendation based on similarities’, github teaching material) 
+	- Reference: ‘Recommendation based on similarities’, github teaching material 
 
 	- Steps
 		1. Extracted 46 features from 15 basic features based on logical reasoning
