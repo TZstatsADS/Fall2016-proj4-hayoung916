@@ -12,10 +12,10 @@ Term: Fall 2016
 + Project title: Words for music
 + Project summary: 
 
-* Objective: To predict (recommend) lyrics words using music features from a set of 2350 songs
-* Method: Item-to-Item collaborate filtering (Reference: ‘Recommendation based on similarities’, github teaching material) 
+- Objective: To predict (recommend) lyrics words using music features from a set of 2350 songs
+- Method: Item-to-Item collaborate filtering (Reference: ‘Recommendation based on similarities’, github teaching material) 
 
-* Steps
+- Steps
 1. Extracted 46 features from 15 basic features based on logical reasoning
 2. Divided dataset into 2 parts for testing (30%)
 3. Generated distance matrix that represents ‘cosine distance’ between features in each set
